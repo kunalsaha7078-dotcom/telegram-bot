@@ -1,0 +1,2 @@
+main.py — same bot code as bot/bot.py, ready to run with python main.py
+requirements.txt — pins python-telegram-bot==20.7 for pip install -r requirements.txt
